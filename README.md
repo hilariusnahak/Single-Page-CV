@@ -1,6 +1,6 @@
 # Single-Page-**CV**
 
-project page URL: https://github.com/hilariusnahak/Single-Page-CV
+project page URL: https://roadmap.sh/projects/single-page-cv
 
 ## Petunjuk Penggunaan
  clone repository on local computer using git with command
