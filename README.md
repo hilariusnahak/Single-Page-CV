@@ -1,6 +1,6 @@
 # Single-Page-**CV**
 
-URL project: https://github.com/hilariusnahak/Single-Page-CV.git
+URL project: https://github.com/hilariusnahak/Single-Page-CV
 
 ## Petunjuk Penggunaan
  clone repository on local computer using git with command
